@@ -4,8 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fprojectrugguard)](https://twitter.com/projectrugguard)
 
-> **Warning**  
-> This project is currently in active development. Use at your own risk.
+> **Information**  
+> This project is currently in active development.
 
 RUGGUARD is an intelligent Twitter bot that analyzes the trustworthiness of Solana project accounts. When someone replies to a tweet with "@projectrugguard riddle me this", the bot analyzes the original tweet's author and posts a trustworthiness report.
 
